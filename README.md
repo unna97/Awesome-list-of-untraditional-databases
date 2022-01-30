@@ -7,3 +7,6 @@
 5. https://ojs.aaai.org/index.php/ICWSM/article/view/18121/17924
 6. Read Research Paper: http://joyojeet.people.si.umich.edu/wp-content/uploads/2017/09/Selfie-Full-Final.pdf
 7. http://snap.stanford.edu/data/#twitter
+8. http://www.statsci.org/datasets.html
+9. https://www.stat.cmu.edu/~hseltman/StatMath.html
+10.
